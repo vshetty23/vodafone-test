@@ -3,7 +3,7 @@
 Install Node :  https://nodejs.org/en/download/
 Install Cypress: `npm install cypress --save-dev`
 
-**How to Run Tests:**
+**How to Run Tests in local:**
 
 Run : Navigate to project folder and run `npx cypress run`
 
